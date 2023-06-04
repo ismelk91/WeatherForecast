@@ -21,7 +21,9 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
     "values"
 })
 @Generated("jsonschema2pojo")
-public class Parameter {
+public class
+
+Parameter {
 
     @JsonProperty("name")
     private String name;
